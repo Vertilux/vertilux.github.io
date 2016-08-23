@@ -1,0 +1,9 @@
+version: '2'
+services:
+  wiki:
+    build: .
+    command: bundle exec jekyll s -H 0.0.0.0
+    volumes:
+        - .:/wiki
+    ports:
+        - "4000:4000"
