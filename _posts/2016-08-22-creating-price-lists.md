@@ -16,6 +16,7 @@ You will be redirected to the price list index page.
 
 ### Step 3
 Price lists can be created from two different methods or ways:   
+
 1. **Form Scratch**   
 With this method you can create a price list with multiple items or products from different categories. Means that you can mixed any item.   
 ![New Price list](/assets/images/posts/new_price_list.png)    
