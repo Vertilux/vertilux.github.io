@@ -15,7 +15,7 @@ Once logged in click on the following link: [Click here...](http://vertilux.com/
 You will be redirected to the price list index page.   
 
 ### Step 3
-Price lists can be created from two different methods or ways:   
+Price lists can be created from two different methods:   
 
 1. **From Scratch**   
 With this method you can create a price list with multiple items or products from different categories. Means that you can mixed any item.   
