@@ -42,8 +42,8 @@ and Sales Orders.
 ![Submit Message](/assets/images/posts/invoices.png)   
 
 ### Step 3
-Clicking on the invoice number to see the invoice detail.   
-If you are looking for a previous invoice, navigate through the pagination at the bottom:   
+Clicking on the invoice number to see the invoice detail. If you are looking for a
+previous invoice, navigate through the pagination at the bottom:   
 ![Invoice Pagination](/assets/images/posts/invoice_pagination.png)   
 
 You can also use the search form to search for a specific invoice:   
