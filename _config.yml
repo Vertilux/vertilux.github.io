@@ -17,9 +17,10 @@ title: Vertilux Wiki
 logo: '<img src="/public/vertilux-logo.png" atl="Vertilux Logo" width="150px">'
 email: wiki@vertilux.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vertilux is one of the largest manufacturers of Fabrics and components for the
+  Window Covering Industry. Our Company started the operations in 1983 in Miami,
+  Florida; and currently has 3 locations in the USA: Miami (Headquarters), Dallas
+  & Los Angeles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vertilux.com.com" # the base hostname & protocol for your site
 twitter_username: twitter
