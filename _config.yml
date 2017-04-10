@@ -29,5 +29,7 @@ github_username:  github
 # Build settings
 markdown: kramdown
 
+include: ['_procedures']
+
 gems:
   - jemoji

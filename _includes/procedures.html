@@ -1,0 +1,16 @@
+<div class="posts">
+  {% for procedure in site.pages %}
+    {% if procedure.layout == "procedure" %}
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ procedure.url }}">
+            {{ procedure.title }}
+          </a>
+        </h1>
+
+        <span class="post-date">{{ procedure.date | date_to_string }}</span>
+        {{ procedure.content | strip_html | truncatewords:50 }}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

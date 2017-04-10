@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-[**Vertilux**](http://vertilux.com) is one of the largest manufacturers of Fabrics and components for the Window Covering Industry. Our Company started the operations in 1983 in Miami, Florida; and currently has 3 locations in the USA: 
-  
+[**Vertilux**](http://vertilux.com) is one of the largest manufacturers of Fabrics and components for the Window Covering Industry. Our Company started the operations in 1983 in Miami, Florida; and currently has 3 locations in the USA:
+
 **Miami (Headquarters)**  
 **Dallas**    
 **Los Angeles**  
