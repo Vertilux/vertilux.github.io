@@ -1,7 +1,7 @@
 ---
 layout: procedure
 title:  "Internal Usage Process"
-date:   2017-04-28 80:00:00 +0000
+date:   2017-04-28 08:00:00 +0000
 ---
 
 This small manual will explain in few step the new procedure to acquire items from
