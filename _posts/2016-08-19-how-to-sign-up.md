@@ -26,6 +26,6 @@ If you have an account already established, login using the email and password u
 ![Sign Up](/assets/images/posts/signup.png)   
 
 ### Step 4
-If everything works fine you should be redirected to your profile page where you will see the successful banner shown below:   
+If everything works fine you will be redirected to your profile page where you will see the successful banner shown below:   
 
 ![Sign Up](/assets/images/posts/successful_banner.png)
