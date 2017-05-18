@@ -7,26 +7,25 @@ permalink: /post/:title
 ---
 
 ### Step 1
-The easy way to sing up into our application is by make a click on the little gear wheel at the top right of the page:  
+To sing up into our application, click the little gear wheel at the top right of the page:  
 
 ![Cog - Top Right](/assets/images/posts/cog.png) or visiting the following link: [http://vertilux.com/users/sign_up](http://vertilux.com/users/sign_up)   
 
 ### Step 2
-Then you'll see a menu click Log In:   
-<small>Vertilux employees can also signup/login from their google acount.</small>   
+A menu will appear, click Log In:   
+*Vertilux employees can also signup/login from their google acount.*   
 
 ![Sidbar Menu](/assets/images/posts/menu.png)   
 
 
 ### Step 3
-If yo have an account then you can log in to your account with the email and password used for creating your account, if not, you will need to create an new account by clicking on the Sing Up link
-and fill out the sign up form:   
-- Login Form
+If you have an account already established, login using the email and password used when you created your account, if not, you will need to create a new account using the Sing Up link above.   
+- Login Form   
 ![Log In](/assets/images/posts/login.png)   
-- SignUp Form
+- SignUp Form   
 ![Sign Up](/assets/images/posts/signup.png)   
 
 ### Step 4
-If everything works fine you should be redirected to your profile page and will see a successful banner like this one bellow:   
+If everything works fine you should be redirected to your profile page where you will see the successful banner shown below:   
 
 ![Sign Up](/assets/images/posts/successful_banner.png)
