@@ -39,15 +39,14 @@ Now, you have on the left side a menu specific to your company, with invoices, s
 ![Submit Message](/assets/images/posts/invoices.png)   
 
 ### Step 3
-Clicking on the invoice number to see the invoice detail. If you are looking for a
-previous invoice, navigate through the pagination at the bottom:   
+Clicking on the invoice number will giv you the details of that invoice.   
+If you are searching for a specific invoice, navigate through the pagination at the bottom:   
 ![Invoice Pagination](/assets/images/posts/invoice_pagination.png)   
 
-You can also use the search form to search for a specific invoice:   
+You can also use the search box in order to find specific invoice:   
 ![Invoice Search](/assets/images/posts/invoice_search.png)   
 
-Once you find the invoice you are looking for, click on the invoice number to see
-the invoice details.   
+Once the invocie is located you will be able to see the details by clicking on that invoice number.      
 ![Invoice Details](/assets/images/posts/invoice_detail.png)   
 
-To download a specific invoice, click on the Download Excel red button.
+To download a specific invoice, click on the Download Excel red rectangle.
