@@ -26,12 +26,10 @@ information, view your favorite products and request access to your current tran
 Then you will be asked for your Vertilux Account Number:
 ![Account Number](/assets/images/posts/account_number_form.png)   
 
-Normally you should have acces in less than 24 hours:
 ![Submit Message](/assets/images/posts/submit_message.png)   
 
-Once you have access to your company info, you will notice your profile had changed.
-Now, you have on the left a menu for your company, with the Company Details, Invoices
-and Sales Orders.
+Once you have access to your company's information, you will notice that your profiel has automatically been updated.   
+Now, you have on the left side a menu specific to your company, with invoices, sales orders and details.
 ![Submit Message](/assets/images/posts/profile_with_company.png)   
 
 #### Company Details:
