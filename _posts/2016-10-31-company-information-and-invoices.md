@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your Company Information and Invoices as Excel"
+title:  "Vertilux Customer Information and invoices in and excel format."
 date:   2017-03-21 10:03:32 +0000
 categories: sign up user account
 permalink: /post/:title
