@@ -5,11 +5,10 @@ date:   2017-03-21 10:03:32 +0000
 categories: sign up user account
 permalink: /post/:title
 ---
-Ever since we launched our new website, we have been striving to improve it. 
-Last week, we added a very useful tool for our customers. This week, we are
-introducing a feature that will allow our customers to keep track of their
-credit, sales order & invoices and even download them as Excel files. To take
-advantage of this feature you must sign in to your Vertilux account.
+Ever since we launched our new website, we have been striving to improve it! 
+Last week, we added very useful information tools for our customers.   
+This week, we are intriducing one of those tools that includes a feature that will allow our customers to keep track of their credit, sales orders, invoices and even allowing to download that information on Excel files.    
+In order to take advantage of this feature, you must sign in to your Vertilux account.
 [Sign in - Sign up Tutorial](/post/how-to-sign-up).   
 
 ### Step 1
